@@ -1,0 +1,15 @@
+table thead th{
+    padding: .7rem;
+    font-size: 1.6rem;
+    color: white;
+    background-color: grey;
+}
+
+table{
+    text-align: center;
+    width: 100%;
+}
+
+td{
+    border: 1px solid black;
+}
